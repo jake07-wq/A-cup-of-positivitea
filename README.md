@@ -1,2 +1,2 @@
 # A-cup-of-positivitea
-The official source code for A cup of positivitea. This code creates a simple web page with a color selection and selecting your zodiac sign and get a daily motivational message when the button is clicked.
+The official source code for A cup of positivitea. This code creates a simple web page with a color selection and selecting your zodiac sign and get a daily motivational message when the button is clicked. It generates a random message based on the selected input(colors and zodiac sign) and displays it on the page. The message is stored in local storage, so it will be the same for the entire day. This project is still in progress.
